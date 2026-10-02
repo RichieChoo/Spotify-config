@@ -1,0 +1,5 @@
+rules:
+  - DOMAIN-SUFFIX,spotify.com,DIRECT
+  - DOMAIN-SUFFIX,spotifycdn.com,DIRECT
+  - DOMAIN-SUFFIX,scdn.co,DIRECT
+  - DOMAIN-SUFFIX,spotifycdn.net,DIRECT
