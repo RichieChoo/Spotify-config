@@ -3,3 +3,4 @@ rules:
   - DOMAIN-SUFFIX,spotifycdn.com,DIRECT
   - DOMAIN-SUFFIX,scdn.co,DIRECT
   - DOMAIN-SUFFIX,spotifycdn.net,DIRECT
+  - DOMAIN-KEYWORD,kuaishou,DIRECT
